@@ -180,7 +180,7 @@ mapDb.createReadStream({range: ['USA', true]})
 
 -->
 
-## retrive a specific result
+## retrieve a specific result
 
 pass `db.get` an array, and you can retrive a specific value, by group.
 
